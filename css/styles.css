@@ -9,10 +9,22 @@ header {
   background-color: lightblue;
 }
 
+.logo {
+  float: left;
+  margin-left: 5%;
+  width: 45%;
+  text-align: left;
+
+}
+
 nav {
-  text-align: center;
+  float: right;
+  text-align: right;
   color: darkgrey;
   font-size: 20px;
+  width: 45%;
+  margin-right: 5%;
+  margin-top: 5%;
 }
 nav li{
   display: inline-block;
