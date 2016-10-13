@@ -1,0 +1,32 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  color: #252525;
+}
+
+header {
+  float: left;
+  width: 100%;
+  background-color: lightblue;
+}
+
+nav {
+  text-align: center;
+  color: darkgrey;
+  font-size: 20px;
+}
+nav li{
+  display: inline-block;
+  width: 20%;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:link {
+  color: black;
+}
+
+a:visited {
+  color: black;
+}
